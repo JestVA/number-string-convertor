@@ -1,0 +1,1 @@
+A small functional program that takes a number as input and outputs the equivalent English language string.
