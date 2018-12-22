@@ -24,4 +24,4 @@ const doConvert = favoriteNumber => {
   // str.match(/.{1, 3}/g)
   document.getElementById('result').textContent = 'nnananan'
 }
-console.log(doConvert())
+// console.log(doConvert())
