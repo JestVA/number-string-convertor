@@ -22,6 +22,6 @@ const doConvert = favoriteNumber => {
   // var reverseOfIt = stringOfNumber.split('').reverse().join();
   
   // str.match(/.{1, 3}/g)
-  document.getElementById('result').textContent = 'nnananan'
+  document.getElementById('result').textContent = numberInput.value
 }
 // console.log(doConvert())
